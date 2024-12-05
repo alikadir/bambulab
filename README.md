@@ -1,4 +1,4 @@
-#BambuLab
+# BambuLab
 
 ### Filament Temperature Formula
 ((MinTemp * 3) + (MaxTemp * 2)) / 5 = OptimalTemp
