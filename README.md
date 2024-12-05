@@ -13,3 +13,6 @@
 ### Presets
 0.4mm Nozzle = 0.16mm Optimal 
 0.2mm Nozzle = 0.08mm Optimal
+
+### Bed Temperature
+65 
