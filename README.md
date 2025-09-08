@@ -4,8 +4,8 @@
 Make Full Calibration
 
 ### 0.2mm nozzle
-- Textured PEI Plate Z offset **0.03**
-- Flow Dynamic Calibration for General High Speed PLA / FactorK = **0.2**
+- Textured PEI Plate Z offset **0.02**
+- Flow Dynamic Calibration for General High Speed PLA / FactorK = **0.255**
 
 ### 0.4mm nozzle
 - Textured PEI Plate Z offset **0.02**
