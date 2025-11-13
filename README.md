@@ -14,3 +14,9 @@ Make Full Calibration
 ### Bed adhesion problem
 
 Wash the plate with **dish soap**, and wipe it with a microfiber or paper towel.
+
+### Nice settings 
+
+- 0.12mm Fine (equivalent 0.2mm nozzle)
+- Sparse infill density (Seyrek Dolgu Yogunlugu) **%5**
+- Sparse infill pattern **Gyroid**
