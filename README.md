@@ -15,7 +15,7 @@ Make Full Calibration
 
 Wash the plate with **dish soap**, and wipe it with a microfiber or paper towel.
 
-### Nice settings 
+### Nice settings (Best Speet/Quality ratio)
 
 - 0.12mm Fine (equivalent 0.2mm nozzle)
 - Sparse infill density (Seyrek Dolgu Yogunlugu) **%5**
