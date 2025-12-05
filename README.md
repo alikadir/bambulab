@@ -13,7 +13,7 @@ Make Full Calibration
 
 ### Bed adhesion problem
 
-Wash the plate with **dish soap**, and wipe it with a microfiber or paper towel.
+Wash the plate with **dish soap**, and wipe it with a microfiber or paper towel. (tou)
 
 ### Nice settings (Best Speet/Quality ratio)
 
