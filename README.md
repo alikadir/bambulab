@@ -22,3 +22,4 @@ Wash the plate with **dish soap**, and wipe it with a microfiber or paper towel.
 - Sparse infill pattern **Gyroid**
 - **0.1mm** tolerance for moving parts
 - Elephant foot compensation **0.25mm** or **0.3mm**
+- If there are objects with different heights, don’t use ironing.
