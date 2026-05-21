@@ -20,7 +20,7 @@ Make Full Calibration
 - On Device Screen > Settings > Calibration > First Layer Calibration > -0.02
 - That's All
 
-[First Layer Trubleshooting Wiki Page](https://wiki.bambulab.com/en/x2d/troubleshooting/first-layer-printing-optimization-guide)
+[First Layer Troubleshooting Wiki Page](https://wiki.bambulab.com/en/x2d/troubleshooting/first-layer-printing-optimization-guide)
 
 
 ### Bed adhesion problem
