@@ -3,6 +3,17 @@
 ### When change nozzle
 Make Full Calibration
 
+## X2D Combo 
+### 0.2mm nozzle
+- didnt prove it
+
+### 0.4mm nozzle
+- On Device Screen > Settings > Calibration > First Layer Calibration > Left Nozzle > -0.02
+- On Device Screen > Settings > Calibration > First Layer Calibration > Right Nozzle > 0.00
+- That's All
+
+[First Layer Troubleshooting Wiki Page](https://wiki.bambulab.com/en/x2d/troubleshooting/first-layer-printing-optimization-guide)
+
 ## A1 Combo
 ### 0.2mm nozzle
 - Textured PEI Plate Z offset **0.02**
@@ -12,15 +23,7 @@ Make Full Calibration
 - Textured PEI Plate Z offset **0.02**
 - That's All
 
-## X2D Combo 
-### 0.2mm nozzle
-- didnt prove it
 
-### 0.4mm nozzle
-- On Device Screen > Settings > Calibration > First Layer Calibration > -0.02
-- That's All
-
-[First Layer Troubleshooting Wiki Page](https://wiki.bambulab.com/en/x2d/troubleshooting/first-layer-printing-optimization-guide)
 
 
 ### Bed adhesion problem
