@@ -3,6 +3,7 @@
 ### When change nozzle
 Make Full Calibration
 
+## A1 Combo
 ### 0.2mm nozzle
 - Textured PEI Plate Z offset **0.02**
 - Flow Dynamic Calibration for General High Speed PLA / FactorK = **0.255**
@@ -10,6 +11,15 @@ Make Full Calibration
 ### 0.4mm nozzle
 - Textured PEI Plate Z offset **0.02**
 - That's All
+
+## X2D Combo
+### 0.2mm nozzle
+- didnt prove it
+
+### 0.4mm nozzle
+- On Device Screen > Settings > Calibration > First Layer Calibration > -0.02
+- That's All
+
 
 ### Bed adhesion problem
 
