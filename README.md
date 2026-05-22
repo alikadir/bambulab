@@ -8,7 +8,11 @@ Make Full Calibration
 - didnt prove it
 
 ### 0.4mm nozzle
+#### PETG
 - On Device Screen > Settings > Calibration > First Layer Calibration > Left Nozzle > -0.02
+#### PLA
+- On Device Screen > Settings > Calibration > First Layer Calibration > Left Nozzle > -0.01
+--------------------
 - On Device Screen > Settings > Calibration > First Layer Calibration > Right Nozzle > 0.00
 - That's All
 
