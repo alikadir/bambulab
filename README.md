@@ -16,7 +16,7 @@ Make Full Calibration
 
 ### Support Settings (Support Interface Auxiliary Nozzle)
 - Support > Support > Style = Tree Organic
-- Support > Support > On Build Plate Only = Check
+- Support > Support > On Build Plate Only = Selected
 - Support > Advanced > Buttom Z Distance = 0.5mm
 - Support > Advanced > Top Interface Layer = 3
 - Support > Advanced > Support/Object XY Distance = 0.5mm
