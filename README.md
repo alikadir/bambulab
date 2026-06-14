@@ -14,6 +14,15 @@ Make Full Calibration
 
 [First Layer Troubleshooting Wiki Page](https://wiki.bambulab.com/en/x2d/troubleshooting/first-layer-printing-optimization-guide)
 
+### Support Settings (Support Interface Auxiliary Nozzle)
+- Support > Support > Style = Tree Organic
+- Support > Support > On Build Plate Only = Check
+- Support > Advanced > Buttom Z Distance = 0.5mm
+- Support > Advanced > Top Interface Layer = 3
+- Support > Advanced > Support/Object XY Distance = 0.5mm
+
+
+
 ## A1 Combo
 ### 0.2mm nozzle
 - Textured PEI Plate Z offset **0.02**
