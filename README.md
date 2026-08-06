@@ -4,13 +4,21 @@
 Make Full Calibration
 
 ## X2D Combo 
-### 0.2mm nozzle
-- didnt prove it
 
-### 0.4mm nozzle
+### Textured PEI Plate - 0.2mm nozzle
+- didn't prove it
+
+### Textured PEI Plate - 0.4mm nozzle
 - On Device Screen > Settings > Calibration > First Layer Calibration > Left Nozzle > -0.01
 - On Device Screen > Settings > Calibration > First Layer Calibration > Right Nozzle > 0.00
 - That's All
+
+### Engineering Plate - 0.2mm nozzle
+- didn't prove it
+
+### Engineering Plate - 0.4mm nozzle
+- On Device Screen > Settings > Calibration > First Layer Calibration > Left Nozzle > 0.00
+- On Device Screen > Settings > Calibration > First Layer Calibration > Right Nozzle > didn't prove it
 
 [First Layer Troubleshooting Wiki Page](https://wiki.bambulab.com/en/x2d/troubleshooting/first-layer-printing-optimization-guide)
 
