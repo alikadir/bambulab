@@ -3,6 +3,8 @@
 ### When change nozzle
 Make Full Calibration
 
+### Start/End Sound
+[Wiki for MIDI sound](https://wiki.bambulab.com/tr/a1-mini/midi)
 ## X2D Combo 
 
 ### Textured PEI Plate - 0.2mm nozzle
