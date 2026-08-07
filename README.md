@@ -11,7 +11,7 @@ Make Full Calibration
 - didn't prove it
 
 ### Textured PEI Plate - 0.4mm nozzle
-- On Device Screen > Settings > Calibration > First Layer Calibration > Left Nozzle > -0.01
+- On Device Screen > Settings > Calibration > First Layer Calibration > Left Nozzle > -0.01 (not required this setting after calibration)
 - On Device Screen > Settings > Calibration > First Layer Calibration > Right Nozzle > 0.00
 - That's All
 
