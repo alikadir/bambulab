@@ -5,6 +5,14 @@ Make Full Calibration
 
 ### Start/End Sound
 [Wiki for MIDI sound](https://wiki.bambulab.com/tr/a1-mini/midi)
+
+### File Transfer with FTP to Device
+FileZilla
+- **ftp:** <DEVICE_IP_ADDRESS>
+- **port:** 990
+- **user:** bblp (BamBuLabPrinter)
+- **pass:** <DEVICE_ACCESS_CODE>
+
 ## X2D Combo 
 
 ### Textured PEI Plate - 0.2mm nozzle
