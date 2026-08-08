@@ -13,6 +13,9 @@ FileZilla
 - **user:** bblp (BamBuLabPrinter)
 - **pass:** <DEVICE_ACCESS_CODE>
 
+### Calibration
+All of detail is in Whimsical
+
 ## X2D Combo 
 
 ### Textured PEI Plate - 0.2mm nozzle
