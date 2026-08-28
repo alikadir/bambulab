@@ -59,6 +59,8 @@ All details are in Figma
   
 - Speed > Main and Auxiliary > Other Layers Speed > Support Interface = 50
 
+- Others > Prime Tower > No Sparse Layers (Experimental) = Selected 
+
 
 ### Bed Adhesion Problem
 
