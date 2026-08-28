@@ -39,16 +39,24 @@ All details are in Figma
 [First Layer Troubleshooting Wiki Page](https://wiki.bambulab.com/en/x2d/troubleshooting/first-layer-printing-optimization-guide)
 
 ### Support Settings (Support Interface Auxiliary Nozzle)
+
 - View > Show Overhang (find areas require support)
+
 - Support > Filament for Supports > Support/raft interface = PLA/PETG
+
 - Support > Support > Style = Tree Organic
 - Support > Support > On Build Plate Only = Selected
+  
 - Support > Advanced > Initial Layer Expansiyon = 5
 - Support > Advanced > Top Z Distance = 0
 - Support > Advanced > Top Interface Layer = 3
 - Support > Advanced > Interface Pattern = Rectilinear Interlaced
 - Support > Advanced > Top Interface Spacing = 0
 - Support > Advanced > Support/Object XY Distance = 0.5mm
+
+- Support > Tree Support > Branch Diameter = 3
+- Support > Tree Support > Branch Diameter angle = 7
+  
 - Speed > Main and Auxiliary > Other Layers Speed > Support Interface = 50
 
 
