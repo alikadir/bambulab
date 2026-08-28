@@ -40,7 +40,7 @@ All details are in Figma
 
 ### Support Settings (Support Interface Auxiliary Nozzle)
 - View > Show Overhang (find areas require support)
-- Filament for Supports > Support/raft interface = PLA/PETG
+- Support > Filament for Supports > Support/raft interface = PLA/PETG
 - Support > Support > Style = Tree Organic
 - Support > Support > On Build Plate Only = Selected
 - Support > Advanced > Initial Layer Expansiyon = 5
@@ -49,7 +49,7 @@ All details are in Figma
 - Support > Advanced > Interface Pattern = Rectilinear Interlaced
 - Support > Advanced > Top Interface Spacing = 0
 - Support > Advanced > Support/Object XY Distance = 0.5mm
-- Speed > Auxiliary > Other Layers Speed > Support Interface = 50
+- Speed > Main and Auxiliary > Other Layers Speed > Support Interface = 50
 
 
 ### Bed Adhesion Problem
