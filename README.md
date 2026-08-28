@@ -43,9 +43,13 @@ All details are in Figma
 - Filament for Supports > Support/raft interface = PLA/PETG
 - Support > Support > Style = Tree Organic
 - Support > Support > On Build Plate Only = Selected
-- Support > Advanced > Buttom Z Distance = 0.5mm
+- Support > Advanced > Initial Layer Expansiyon = 5
+- Support > Advanced > Top Z Distance = 0
 - Support > Advanced > Top Interface Layer = 3
+- Support > Advanced > Interface Pattern = Rectilinear Interlaced
+- Support > Advanced > Top Interface Spacing = 0
 - Support > Advanced > Support/Object XY Distance = 0.5mm
+- Speed > Auxiliary > Other Layers Speed > Support Interface = 50
 
 
 ### Bed Adhesion Problem
