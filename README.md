@@ -41,25 +41,27 @@ All details are in Figma
 ### Support Settings (Support Interface Auxiliary Nozzle)
 
 - View > Show Overhang (find areas require support)
-
+- ====================================
 - Support > Filament for Supports > Support/raft interface = PLA/PETG
-
+- ====================================
 - Support > Support > Style = Tree Organic
 - Support > Support > On Build Plate Only = Selected
-  
+- ====================================
 - Support > Advanced > Initial Layer Expansiyon = 5
 - Support > Advanced > Top Z Distance = 0
 - Support > Advanced > Top Interface Layer = 3
 - Support > Advanced > Interface Pattern = Rectilinear Interlaced
 - Support > Advanced > Top Interface Spacing = 0
 - Support > Advanced > Support/Object XY Distance = 0.5mm
-
+- ====================================
 - Support > Tree Support > Branch Diameter = 3
 - Support > Tree Support > Branch Diameter angle = 7
-  
+- ====================================
 - Speed > Main and Auxiliary > Other Layers Speed > Support Interface = 50
-
-- Others > Prime Tower > No Sparse Layers (Experimental) = Selected 
+- ====================================
+- Others > Prime Tower > No Sparse Layers (Experimental) = Selected
+- ====================================
+- Add 1mm X 1mm X 0.2mm cube object near prime tower with Support Interface Filament for nozzle cleaning and flow calibrating when start printing
 
 
 ### Bed Adhesion Problem
