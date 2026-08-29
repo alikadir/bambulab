@@ -59,7 +59,7 @@ All details are in Figma
 - ====================================
 - Speed > Main and Auxiliary > Other Layers Speed > Support Interface = 50
 - ====================================
-- Others > Prime Tower > No Sparse Layers (Experimental) = Selected
+- Others > Prime Tower > No Sparse Layers (Experimental Max 130mm Heigh) = Selected
 - ====================================
 - Add 1mm X 1mm X 0.2mm cube object near prime tower with Support Interface Filament for nozzle cleaning and flow calibrating when start printing
 
