@@ -49,7 +49,9 @@ All details are in Figma
 - ====================================
 - Support > Advanced > Initial Layer Expansiyon = 5
 - Support > Advanced > Top Z Distance = 0
+- Support > Advanced > Bottom Z Distance = 0 (If Use Support Type:Normal and use Button Interface)
 - Support > Advanced > Top Interface Layer = 3
+- Support > Advanced > Bottom Interface Layer = 3 (Not Enable Tree Support)
 - Support > Advanced > Interface Pattern = Rectilinear Interlaced
 - Support > Advanced > Top Interface Spacing = 0
 - Support > Advanced > Support/Object XY Distance = 0.5mm
