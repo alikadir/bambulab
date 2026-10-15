@@ -33,7 +33,7 @@ All details are in Figma
 - didn't prove it
 
 ### Engineering Plate - 0.4mm Nozzle
-- On Device Screen > Settings > Calibration > First Layer Calibration > Left Nozzle > 0.00
+- On Device Screen > Settings > Calibration > First Layer Calibration > Left Nozzle > -0.01
 - On Device Screen > Settings > Calibration > First Layer Calibration > Right Nozzle > didn't prove it
 
 [First Layer Troubleshooting Wiki Page](https://wiki.bambulab.com/en/x2d/troubleshooting/first-layer-printing-optimization-guide)
@@ -65,6 +65,9 @@ All details are in Figma
 - ====================================
 - Add 1mm X 1mm X 0.2mm cube object near prime tower with Support Interface Filament for nozzle cleaning and flow calibrating when start printing
 
+### Ironin Kingroon PETG
+- Speed: 40
+- Flow: 25
 
 ### Bed Adhesion Problem
 
