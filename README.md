@@ -69,6 +69,17 @@ All details are in Figma
 - Speed: 40
 - Flow: 25
 
+### Most strength printing instead %100 infill
+- Strength > Walls > Wall Loops: 7
+- Strength > Top/Bottom Shells > Top Shell Layers: 7
+- Strength > Top/Bottom Shells > Bottom Shell Layers: 7
+- Strength > Sparse infill > Sparse Infill Density: 70 %
+- Strength > Sparse infill > Sparse Infill Pattern: Gyroid
+
+- Print Position of object!!!
+- 0.2mm Standard Layer Height
+
+
 ### Bed Adhesion Problem
 
 Wash the plate with **dish soap**, and wipe it with a microfiber or paper towel. (tou)
