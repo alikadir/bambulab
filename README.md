@@ -71,7 +71,7 @@ All details are in Figma
 
 ### Bridge Kingroon PETG
 - Speed > Main Nozzle > Bridge Speed: 10 mm/s
-- Quality > Advanced > Bridge Flow: 25
+- Quality > Advanced > Bridge Flow: 1.6
 
 ### For Text Quality
 - Quality > Wall Generator > Arachne
