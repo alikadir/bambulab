@@ -66,8 +66,16 @@ All details are in Figma
 - Add 1mm X 1mm X 0.2mm cube object near prime tower with Support Interface Filament for nozzle cleaning and flow calibrating when start printing
 
 ### Ironin Kingroon PETG
-- Speed: 40
-- Flow: 25
+- Quality > Ironing > Ironing Speed: 40 mm/s
+- Quality > Ironing > Ironing Flow: 25 %
+
+### Bridge Kingroon PETG
+- Speed > Main Nozzle > Bridge Speed: 10 mm/s
+- Quality > Advanced > Bridge Flow: 25
+
+### For Text Quality
+- Quality > Wall Generator > Arachne
+
 
 ### Most strength printing instead %100 infill
 - Strength > Walls > Wall Loops: 7
